@@ -5,8 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashwini+Bheemireddy!" alt="Typing SVG" />
 </h1>
 
+
           
-  **🌟 Passionate About Learning Web Development | 🚀 Future Full-Stack Developer |**
+### 🌟 Passionate About Learning Web Development | 🚀 Future Full-Stack Developer |
+
 
 
 ### 👤 About Me
