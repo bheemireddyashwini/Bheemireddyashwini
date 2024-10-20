@@ -4,19 +4,16 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashwini+Bheemireddy!" alt="Typing SVG" />
 </h1>
-<h3 align="center">
-  <strong>🌟 Passionate About Learning Web Development</strong> | 
-  <strong>🚀 Future Full-Stack Developer</strong> | 
-  <strong>📚 Currently Learning Web Development at DCI</strong> <br>
-  <span style="font-size: 0.9em; color: gray;">(Completion: March 2025)</span>
-</h3>
+
+          
+  **🌟 Passionate About Learning Web Development | 🚀 Future Full-Stack Developer |**
+
 
 ### 👤 About Me
+I’m currently learning **Web Development at DCI, with an expected completion date of March 2025**. I’m excited about the journey ahead as I strive to build beautiful and functional websites, continuously enhancing my skills in both front-end and back-end development.
 
+My goal is to become a Full-Stack Developer and contribute to impactful projects that make a difference. I’m eager to collaborate with others and bring innovative ideas to life!
 
-Hi! 👋 I'm Ashwini Bheemireddy, a passionate web development student currently learning HTML, CSS, and JavaScript. I'm excited to build beautiful, functional websites and continue growing my skills in front-end and back-end development.
-
-My goal is to become a full-stack developer and contribute to impactful projects.
 
 ### 💻 Technologies I'm Learning
 
