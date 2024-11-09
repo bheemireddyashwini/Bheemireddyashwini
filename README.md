@@ -30,8 +30,6 @@ My goal is to become a Full-Stack Developer and contribute to impactful projects
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat-square&logo=dart&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ### 🚧 Current Projects
 - **Learning React**: Currently developing small applications to deepen my understanding of components, state management, and routing through hands-on practice and projects.
