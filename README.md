@@ -45,5 +45,7 @@ My goal is to become a Full-Stack Developer and contribute to impactful projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwini2127/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](bheemireddyashwini92@gmail.com)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bheemireddyashwini)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
