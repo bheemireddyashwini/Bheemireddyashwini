@@ -11,10 +11,12 @@
 
 
 
-### 👤 About Me
-I’m currently learning **Web Development at DCI, with an expected completion date of March 2025**. I’m excited about the journey ahead as I strive to build beautiful and functional websites, continuously enhancing my skills in both front-end and back-end development.
+### 👤 About Me  | 🌐 Crafting the Future of Tech
 
+I’m on an exciting journey in Web Development at DCI(Digital Career institute), where I’m building the skills to craft seamless and dynamic web experiences. With my graduation set for March 2025, I’m focused on mastering both front-end and back-end technologies to deliver functional and engaging digital solutions.
 My goal is to become a Full-Stack Developer and contribute to impactful projects that make a difference. I’m eager to collaborate with others and bring innovative ideas to life!
+
+My vision is to grow into a skilled Full-Stack Developer, contributing to innovative projects that leave a positive impact. I’m driven by a passion for collaboration, creativity, and problem-solving, and I’m eager to turn ideas into reality with clean, efficient code and a user-first approach.
 
 
 ### 💻 Technologies I'm Learning
