@@ -13,11 +13,11 @@
 
 ### 👤 About Me | 🌐 Crafting the Future of Tech
 
-I’m a Web Developer and QA enthusiast currently completing my training at **Digital Career Institute (DCI)**, with graduation in **May 2025**. I have hands-on experience in building full-stack applications, mobile apps, and automated testing solutions. I'm passionate about creating clean, efficient code — both for users and developers.
+I’m a Web Developer and QA enthusiast currently completing my training at **Digital Career Institute (DCI)**, with graduation in **May 2025**. I have hands-on experience in building full-stack applications, mobile apps, and automated testing solutions. I'm passionate about creating clean, efficient code both for users and developers.
 
 Over the last several months, I've expanded my skill set into **Python-based test automation**, where I built and tested RESTful APIs and designed front-end interfaces to visualize test results.
 
-My goal is to contribute to impactful projects — both in **Web Development** and **Quality Assurance** — and grow into a versatile **Full-Stack Developer** with strong testing skills.
+My goal is to contribute to impactful projects both in **Web Development** and **Quality Assurance** and grow into a versatile **Full-Stack Developer** with strong testing skills.
 
 ---
 
